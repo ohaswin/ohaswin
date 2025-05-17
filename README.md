@@ -20,7 +20,7 @@ cool stuff, theoretical computer science, physics simulations, statistical learn
 
 </h3>
 
-<h3 align="center"><a href="https://ko-fi.com/aswinnnn"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goldenboi" /></a></h3>
+<h3 align="center"><a href="https://ko-fi.com/aswindebug"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aswindebug" /></a></h3>
 
 <br>
 
