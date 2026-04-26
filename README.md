@@ -1,31 +1,24 @@
-<h1 align="center">Hey, I'm Aswin.</h1>
+# Aswin
 
-<h4 align="center">
-<b>pronounced <i>ah-sh-win</i></b>
+Second-year CS student at CAS Vadakkencherry. 
+
+## what i maintain
+- [Pyscan](https://github.com/ohaswin/pyscan) — python dependency vuln scanner; 60,000+ downloads across PyPI and crates.io
+- [casvdy.org](https://casvdy.org/) - My college's website, ERP, attendance, and result management systems used by the entire college
+
+## what i'm working on
+
+- Rebuilding [casvdy.org](https://casvdy.org) (college website)
+- Researching cellular networks, distributed systems
+- A dystopian video game I've been worldbuilding for too long
+
+## stack
+
+Python · Rust · Django · PostgreSQL · Linux (Debian, Arch, NetBSD)
+
+## elsewhere
+
+[Blog](https://ohaswin.github.io/blog/) · [Last.fm](https://www.last.fm/user/goldenharmony) · [LinkedIn](https://linkedin.com/in/ohaswin)  
 
 
-<h3 align="center">
-  
-<pre>currently working on</pre>
-
-[pyscan](https://github.com/aswinnnn/pyscan)
-
-<pre>Languages:</pre>
-
-Rust, Python, C, C++, Haskell, OCaml, F#, Kotlin, Common Lisp
-
-<pre>Likes:</pre>
-
-cool stuff, theoretical computer science, physics simulations, statistical learning models, radio tech, etc.
-
-</h3>
-
-<h3 align="center"><a href="https://ko-fi.com/aswindebug"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aswindebug" /></a></h3>
-
-<br>
-
-<h4 align="right">
-  
-![](https://visitcount.itsvg.in/api?id=aswinnnn&icon=0&color=0)
-  
-</h4>
+<p align="center"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-02/13/14/asset/5bb055a630d4/anigif_sub-buzz-2590-1581602994-1.gif?output-format=auto&output-quality=auto&downsize=360%3A%2A" ></p>
