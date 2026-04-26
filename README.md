@@ -12,12 +12,7 @@
 
 - Rebuilding [casvdy.org](https://casvdy.org) (college website)
 - Researching cellular networks, distributed systems
-- A dystopian video game I've been worldbuilding for too long
 
 ## stack
 
 Python · Rust · Django · PostgreSQL · Linux (Debian, Arch, NetBSD)
-
-## elsewhere
-
-[Blog](https://ohaswin.github.io/blog/) · [Last.fm](https://www.last.fm/user/goldenharmony) · [LinkedIn](https://linkedin.com/in/ohaswin)  
