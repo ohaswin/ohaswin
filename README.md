@@ -1,6 +1,6 @@
 <p align="center"><img src="https://ohaswin.github.io/assets/outlow.webp" ></p>
 
-# <p align="center"> Aswin. </p>
+# <p align="center">Aswin</p>
 
 <p align="center"> Second-year CS student at CAS Vadakkencherry. </p>
 
