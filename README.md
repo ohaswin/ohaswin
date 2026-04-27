@@ -10,7 +10,7 @@
 
 ## what i'm working on
 
-- Rebuilding [casvdy.org](https://casvdy.org) (college website)
+- Finish the revival of [casvdy.org](https://casvdy.org) (college website)
 - Researching cellular networks, distributed systems
 
 ## stack
