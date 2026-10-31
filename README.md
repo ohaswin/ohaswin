@@ -15,4 +15,4 @@
 
 ## stack
 
-Python · Rust · Django · PostgreSQL · Linux (Debian, Arch, NetBSD)
+Python · Rust · Django · PostgreSQL · Linux (Debian, Arch) · AWS
